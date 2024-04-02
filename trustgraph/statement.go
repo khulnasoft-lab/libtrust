@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/docker/libtrust"
+	"github.com/khulnasoft-lab/libtrust"
 )
 
 type jsonGrant struct {

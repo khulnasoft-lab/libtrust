@@ -3,7 +3,7 @@ package trustgraph
 import (
 	"strings"
 
-	"github.com/docker/libtrust"
+	"github.com/khulnasoft-lab/libtrust"
 )
 
 type grantNode struct {

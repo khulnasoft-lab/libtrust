@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/docker/libtrust"
+	"github.com/khulnasoft-lab/libtrust"
 )
 
 func main() {
